@@ -1,0 +1,1 @@
+print("GitHubからloadstring成功！")
